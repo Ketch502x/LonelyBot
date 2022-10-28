@@ -19,3 +19,4 @@ $ cd LonelyName
 ````
 $ npm i
 ````
+[OK](https://google.com/search)
