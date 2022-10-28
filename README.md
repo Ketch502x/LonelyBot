@@ -17,6 +17,9 @@ $ git clone https://github.com/Ketch502x/LonelyName
 $ cd LonelyName
 ````
 ````
-$ npm i
+$ npm i 
 ````
-[OK](https://google.com/search)
+````
+$ npm start
+````
+> Finish!!
