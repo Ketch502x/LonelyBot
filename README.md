@@ -9,7 +9,14 @@ These files are just test.
 $ pkg update && pkg upgrade
 ````
 ````
-$ pkg install git
+$ pkg install git && pkg install nodejs
 ````
 ````
-$ git clone 
+$ git clone https://github.com/Ketch502x/LonelyName
+````
+````
+$ cd LonelyName
+````
+````
+$ npm i
+````
