@@ -22,4 +22,4 @@ $ npm i
 ````
 $ npm start
 ````
-> Finish!!
+> End!!
