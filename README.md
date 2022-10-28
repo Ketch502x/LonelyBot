@@ -3,7 +3,7 @@
 ## This bot is still being created and still missing XD files :satisfied:
 ![This is an image](https://i.ibb.co/T0gxrWD/cat-png.webp)
 
-**INSTALATION WITHOUT TERMUX:**
+**INSTALATION WITH TERMUX:**
 ````
 $ pkg update && pkg upgrade
 ````
