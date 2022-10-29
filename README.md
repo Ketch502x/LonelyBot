@@ -1,4 +1,4 @@
-# LonelyName
+# Lonely-Bot Whatsapp
 > These files are just test.
 ## This bot is still being created and still missing XD files :satisfied:
 ![This is an image](https://i.ibb.co/T0gxrWD/cat-png.webp)
