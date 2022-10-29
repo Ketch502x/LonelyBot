@@ -36,6 +36,6 @@ $ npm start
 ## Supported Features
 | Feature | Status |
 | ------------- | ------------- |
-| Create and send stickers | ✅ |
-| Support for @tag messages | ✅ |
+| Stickers | ✅ |
+| @tag messages | ✅ |
 | React to messages | ✅ |
