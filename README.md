@@ -5,7 +5,7 @@
 ![This is an image](https://i.ibb.co/T0gxrWD/cat-png.webp)
 
 ------
-**✔ INSTALATION WITH TERMUX:**
+### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px">  INSTALATION WITH TERMUX:
 ````bash
 termux-setup-storage 
 apt update 
