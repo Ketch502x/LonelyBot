@@ -23,3 +23,8 @@ $ npm i
 $ npm start
 ````
 > End!!
+
+> License This project is protected by `GNU General Public Licence v3.0` license.
+
+### GROUP WHATSAPP
+<a href="https://chat.whatsapp.com/KK6AVKEwPVJ0aXoWo2cK2g"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
