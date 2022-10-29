@@ -1,3 +1,4 @@
+8
 # Lonely-Bot Whatsapp
 > These files are just test. :trollface:
 ## This bot is still being created and still missing XD files :satisfied:
@@ -5,22 +6,20 @@
 
 **INSTALATION WITH TERMUX:**
 ````
-$ pkg update && pkg upgrade
-````
-````
-$ pkg install git && pkg install nodejs
-````
-````
-$ git clone https://github.com/Ketch502x/LonelyName
-````
-````
-$ cd LonelyName
-````
-````
-$ npm i 
-````
-````
-$ npm start
+termux-setup-storage 
+apt update 
+pkg upgrade
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install imagemagick -y 
+pkg install yarn
+git clone https://github.com/Ketch502x/LonelyName
+cd LonelyBot
+yarn install
+npm install
+npm update
+npm start
 ````
 > End!!
 
@@ -44,3 +43,4 @@ $ npm start
 | Unencrypted bot | ✅ |
 | Send buttons | ✅ |
 | Mention users | ✅ |
+| Set user status message | ✅ |
