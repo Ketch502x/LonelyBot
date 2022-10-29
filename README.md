@@ -22,7 +22,7 @@ npm update
 npm start
 ````
 
-### ⚜ GROUP WHATSAPP :shipit:
+### ⚜ WHATSAPP :shipit:
 <a href="https://chat.whatsapp.com/H6yIF6sdDW31lQwYJzrBh4"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## ⚙ Supported Features ⚙
