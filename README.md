@@ -34,4 +34,8 @@ $ npm start
 <a href=" "><img src="https://camo.githubusercontent.com/aa802dbc40cc28c04570c430c317718e5ea7a4cafc62742fb049888f6284cda7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656c656173652d626574612d677265656e2e7376673f7374796c653d666c61742d737175617265"/>
 
 ## Supported Features
-
+| Feature | Status |
+| ------------- | ------------- |
+| Create and send stickers | ✅ |
+| Support for @tag messages | ✅ |
+| React to messages | ✅ |
