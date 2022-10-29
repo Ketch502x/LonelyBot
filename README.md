@@ -4,7 +4,7 @@
 ## This bot is still being created and still missing XD files :satisfied:
 ![This is an image](https://i.ibb.co/T0gxrWD/cat-png.webp)
 
-**INSTALATION WITH TERMUX:**
+**✔ INSTALATION WITH TERMUX:**
 ````
 termux-setup-storage 
 apt update 
@@ -22,10 +22,10 @@ npm update
 npm start
 ````
 
-### GROUP WHATSAPP :shipit:
+### ⚜ GROUP WHATSAPP :shipit:
 <a href="https://chat.whatsapp.com/H6yIF6sdDW31lQwYJzrBh4"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-## Supported Features
+## ⚙ Supported Features ⚙
 | Feature | Status |
 | ------------- | ------------- |
 | Send stickers | ✅ |
