@@ -14,7 +14,7 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install imagemagick -y 
 pkg install yarn
-git clone https://github.com/Ketch502x/LonelyName
+git clone https://github.com/Ketch502x/LonelyBot
 cd LonelyBot
 yarn install
 npm install
