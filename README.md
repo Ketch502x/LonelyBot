@@ -39,3 +39,5 @@ $ npm start
 | Stickers | ✅ |
 | @tag messages | ✅ |
 | React to messages | ✅ |
+| Reply mesages | ✅ | 
+| Unencrypted bot | ✅ |
