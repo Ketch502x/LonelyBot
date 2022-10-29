@@ -4,6 +4,7 @@
 ## This bot is still being created and still missing XD files :satisfied:
 ![This is an image](https://i.ibb.co/T0gxrWD/cat-png.webp)
 
+------
 **✔ INSTALATION WITH TERMUX:**
 ````bash
 termux-setup-storage 
@@ -21,9 +22,13 @@ npm install
 npm update
 npm start
 ````
+------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&pause=1000&color=26F700&background=84CCFF00&multiline=true&width=435&lines=Thanks+for+viewing+my+repository.)](https://git.io/typing-svg)
+------
 
 ### ⚜ WHATSAPP :shipit:
 <a href="https://chat.whatsapp.com/H6yIF6sdDW31lQwYJzrBh4"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+------
 
 ## ⚙ Supported Features ⚙
 | Feature | Status |
