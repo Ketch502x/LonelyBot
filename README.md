@@ -36,8 +36,11 @@ $ npm start
 ## Supported Features
 | Feature | Status |
 | ------------- | ------------- |
-| Stickers | ✅ |
-| @tag messages | ✅ |
+| Send stickers | ✅ |
+| Send messages | ✅ |
+| Receive messages | ✅ |
 | React to messages | ✅ |
 | Reply mesages | ✅ | 
 | Unencrypted bot | ✅ |
+| Send buttons | ✅ |
+| Mention users | ✅ |
